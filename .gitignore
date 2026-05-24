@@ -1,0 +1,3 @@
+*.pkl
+sentiment_model.pkl
+vectorizer.pkl
